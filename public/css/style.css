@@ -1,0 +1,501 @@
+@media only screen and (min-width: 768px) {
+    .call{
+        position: fixed;
+        bottom: 9rem;
+        left: 2rem;
+        border-radius: 55px;
+        padding: 25px 30px;
+        background: white;
+    }
+}
+footer .f1{
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: rgb(136, 117, 110);
+   background:  rgb(55, 45, 57);
+   padding: 80px 0;
+}
+footer .helledia{
+    font-size: 35px;
+    color: white;
+}
+footer .phelledia{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #88756e;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+}
+footer .home{
+        max-width: 100%;
+        height: 60px;
+        margin-bottom: 40px;
+}
+footer .anavigation a{
+    color: #d0b089;
+    text-decoration: none;
+    font-weight: 400;
+    font-style: normal;
+}
+footer .anavigation a:hover{
+    color: white;
+}
+footer h4{
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 28px;
+}
+footer .day{
+    line-height: 30px;
+}
+footer .f2{
+background: #29222b;
+text-align: center;
+font-weight: 400;
+font-style: normal;
+font-family: 'Lato', sans-serif;
+color: #88756e;
+font-size: 16px;
+line-height: 1.5;
+padding: 20px 0;
+}
+.legalconsultation{
+    text-align: center;
+    padding: 130px 0;
+}
+.legalconsultation h2{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Merriweather', serif;
+    color: #443846;
+    font-size: 50px;
+    line-height: 0.8;
+    letter-spacing: 0px;
+}
+.legalconsultation .p1{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #88756e;
+    font-size: 18px;
+    line-height: 1.1;
+    letter-spacing: 0px;
+}
+.legalconsultation .p2{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #88756e;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+}
+button, input {
+    color: #88756e;
+    background-color: #ebebeb;
+    font-style: normal;
+    font-weight: 400;
+    border-color: #ebebeb;
+    border:0.1px solid #ebebeb;
+    padding: 14px 22px;
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: -5px;
+    display: block;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    overflow: visible;
+}
+.legalconsultation .sendmassage{
+    text-decoration: none;
+    background: rgb(208, 176, 137);
+    color: white;
+    padding: 20px 50px;
+    border-radius: 30px;
+}
+.legalconsultation .sendmassage:hover{
+    background: #132024;
+}
+.legalconsultation .p2{
+    margin: 35px 0;
+}
+hr{
+    border: 0;
+    border-top: 2px solid rgb(208, 176, 137);
+    margin: 2rem 32rem;
+}
+.legalconsultation > h2{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Merriweather', serif;
+    color: #443846;
+    font-size: 50px;
+    line-height: 0.8;
+}
+.logo{
+    background: rgb(247, 247, 247);
+    padding: 55px 0;
+    margin-top: 7rem;
+}
+.meetourattorneys{
+    text-align: center;
+    margin-top: 5rem;
+}
+.meetourattorneys .name{
+    color: #23527c;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.meetourattorneys .name:hover{
+    color: #443846;
+}
+.meetourattorneys .job{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #d0b089;
+    font-size: 14px;
+    line-height: 0.8;
+    letter-spacing: 0px;
+    margin-top: 8px;
+    margin-bottom: 28px;
+}
+.meetourattorneys p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #88756e;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+}
+.fab{
+    font-family: "Font Awesome 5 Brands";
+    width: 40px;
+    font-size: 25px;
+    color: white;
+}
+.facebook{
+   
+    background: rgb(59, 89, 152);
+    border-radius: 20px;
+    padding: 5px 0px;
+    margin-left: 6rem;
+}
+.facebook:hover{
+    background: lightblue;
+    color: white;
+}
+.twitter{
+    background: rgb(29, 161, 242);
+    border-radius: 20px;
+    padding: 5px 0px;
+    margin: 0 2rem;
+}
+.twitter:hover{
+    background: lightblue;
+    color:white;
+}
+.linkedin{
+    background: rgb(56, 43, 60);
+    border-radius: 20px;
+    padding: 5px 0px;
+}
+.linkedin:hover{
+    background: lightslategray;
+    color:white;
+}
+.meetourattorneys .michael{
+    margin-bottom: 40px;
+}
+.picmeet{
+    max-width: 100%;
+    height: auto;
+    margin-top: 4rem;
+}
+.address{
+    text-align: center;
+    background-image: url(../picture/1.jpg);
+    padding: 140px 0;
+}
+.address .paddress1{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #d0b089;
+    font-size: 18px;
+    line-height: 1.1;
+}
+.address .paddress2{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Merriweather', serif;
+    color: #443846;
+    font-size: 50px;
+    line-height: 0.8;
+    color: white;
+    margin: 20px 0;
+}
+.address .number{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Merriweather', serif;
+    color: #d0b089;
+    font-size: 80px;
+    line-height: 0.7;
+    margin-bottom: 15px;
+}
+.address .text{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.address > hr{
+    border: 0;
+    border-top: 2px solid rgb(208, 176, 137);
+    margin: 2rem 45rem;
+}
+.womantext1{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #88756e;
+    font-size: 18px;
+    line-height: 1.1;
+}
+.womantext2{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Merriweather', serif;
+    color: #443846;
+    font-size: 50px;
+    line-height: 0.8;
+    margin-top: 1rem;
+}
+.fa, .fas {
+    font-weight: 900;
+    color: rgb(235, 235, 235);
+    font-size: 45px;
+}
+.womantext3 p{
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Playfair Display', serif;
+    color: #372d39;
+    font-size: 30px;
+    line-height: 1.2;
+    margin-left: 20px;
+}
+.womantext4{
+    color: #d0b089;
+    margin-left: 20px;
+}
+.woman hr{
+    margin: 2rem 35rem 2rem 0rem;
+}
+.scales{
+    background-image: url(../picture/caican.jpg);
+    background-size: cover;
+    padding: 8rem 0;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+.scalestext1{
+    color: #d0b089;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    line-height: 1.1;
+}
+.scalestext2{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Merriweather', serif;
+    color: white;
+    font-size: 30px;
+    line-height: 1.5;
+    margin: 1rem 0 2rem 0;
+}
+.scalesreadmore{
+    background: white;
+    color: black;
+    border-radius: 30px;
+    padding: 1rem 3rem;
+}
+.scalesreadmore:hover{
+    background: rgb(226, 206, 183);
+    color:white;
+    text-decoration: none;
+}
+.pictureandtext{
+    display: flex;
+}
+.pat1{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #88756e;
+    font-size: 18px;
+    line-height: 1.1;
+    letter-spacing: 0px;
+}
+.pat2{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Merriweather', serif;
+    color: #443846;
+    font-size: 45px;
+    line-height: 1.2;
+    letter-spacing: 0px;
+}
+.pat3{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #88756e;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+    margin-bottom: 3rem;
+}
+.pat123{
+    margin: 2rem 14rem 0rem 4rem;
+}
+.pictureandtext hr{
+    margin: 2rem 24rem 2rem 0rem;
+}
+.readmore{
+    color: black;
+    border: solid rgb(222, 222, 222);
+    border-radius: 30px;
+    padding: 0.8rem 3rem;
+}
+.readmore:hover{
+    color: #ffffff;
+    background-color: #443846;
+    border-color: #443846;
+    text-decoration: none;
+}
+.pat456{
+    margin: 2rem 4rem 0rem 14rem;
+}
+.pictext{
+    max-width: 104%;
+    height: auto;
+}
+.logoandtext{
+    text-align: center;
+    background: rgb(247, 247, 247);
+    padding: 8rem 12rem;
+    margin-top: 8rem;
+}
+.logoandtext1{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Merriweather', serif;
+    color: #443846;
+    font-size: 22px;
+    line-height: 0.9;
+    letter-spacing: 0px;
+    margin: 1rem 0;
+}
+.logoandtext2{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #88756e;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+    margin-bottom: 2rem;
+}
+.learnmore{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #443846;
+    border-bottom: 2px solid #88756e;
+}
+.learnmore:hover{
+    color: #88756e;
+    text-decoration: none;
+}
+header{
+    background-image: url(../picture/2.jpg);
+    background-size: cover;
+    padding: 17rem 0rem 5rem 10rem;
+}
+header .textheader{
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'Merriweather', serif;
+    color: #443846;
+    font-size: 70px;
+    line-height: 1.1;
+    letter-spacing: 0px;
+}
+header .pheader{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Lato', sans-serif;
+    color: #88756e;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0px;
+    margin: 3rem 0 2rem 0;
+}
+header > .freeconsultatinon{
+    color: black;
+
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #88756e !important;
+    font-weight: 600;
+    margin-left: 10rem;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-weight:600;
+    color: #443846 !important;
+    margin: 0 1rem;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color:#88756e  !important;
+}
+header > .navbar{
+    margin: -16rem 0;
+}
+header > .textpheader{
+    margin: 25rem 0;
+}
+.top{
+    position: fixed;
+    right: 3rem;
+    bottom: 3rem;
+    border: solid 1px #88756e;
+    border-radius: 35px;
+    background: #88756e;
+    padding: 3px 13px;
+}
+.top:hover{
+    background: black;
+}
+.call{
+    position: fixed;
+    bottom: 9rem;
+    left: 2rem;
+    border-radius: 55px;
+    padding: 25px 30px;
+    background: white;
+}
+.call:hover{
+    background: lightpink;
+}
